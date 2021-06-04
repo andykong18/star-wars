@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Link, Switch } from 'react-router-dom';
 import CharacterList from './CharacterList.js';
 import Character from './Character.js'
 
