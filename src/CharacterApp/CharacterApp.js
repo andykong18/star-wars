@@ -15,7 +15,7 @@ function CharacterApp() {
             <CharacterList />
           </Route>
           <Route path="/character/:id">
-            <h1 className="text-center text-light">Character Info Page</h1>
+            <h1 className="text-center text-light">Character Info</h1>
             <Character />
           </Route>
           <Route path="*">
