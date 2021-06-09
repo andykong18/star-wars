@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/final_project/static/css/main.9eea915f.chunk.css",
-    "main.js": "/final_project/static/js/main.813bd76c.chunk.js",
-    "main.js.map": "/final_project/static/js/main.813bd76c.chunk.js.map",
-    "runtime-main.js": "/final_project/static/js/runtime-main.9c8ecd97.js",
-    "runtime-main.js.map": "/final_project/static/js/runtime-main.9c8ecd97.js.map",
-    "static/js/2.93f297d3.chunk.js": "/final_project/static/js/2.93f297d3.chunk.js",
-    "static/js/2.93f297d3.chunk.js.map": "/final_project/static/js/2.93f297d3.chunk.js.map",
-    "static/js/3.7da1f2ec.chunk.js": "/final_project/static/js/3.7da1f2ec.chunk.js",
-    "static/js/3.7da1f2ec.chunk.js.map": "/final_project/static/js/3.7da1f2ec.chunk.js.map",
-    "index.html": "/final_project/index.html",
-    "static/css/main.9eea915f.chunk.css.map": "/final_project/static/css/main.9eea915f.chunk.css.map",
-    "static/js/2.93f297d3.chunk.js.LICENSE.txt": "/final_project/static/js/2.93f297d3.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/final_project/static/media/background.39a79338.jpg"
+    "main.css": "/star-wars/static/css/main.9f9ad270.chunk.css",
+    "main.js": "/star-wars/static/js/main.813bd76c.chunk.js",
+    "main.js.map": "/star-wars/static/js/main.813bd76c.chunk.js.map",
+    "runtime-main.js": "/star-wars/static/js/runtime-main.dbec3ec3.js",
+    "runtime-main.js.map": "/star-wars/static/js/runtime-main.dbec3ec3.js.map",
+    "static/js/2.93f297d3.chunk.js": "/star-wars/static/js/2.93f297d3.chunk.js",
+    "static/js/2.93f297d3.chunk.js.map": "/star-wars/static/js/2.93f297d3.chunk.js.map",
+    "static/js/3.7da1f2ec.chunk.js": "/star-wars/static/js/3.7da1f2ec.chunk.js",
+    "static/js/3.7da1f2ec.chunk.js.map": "/star-wars/static/js/3.7da1f2ec.chunk.js.map",
+    "index.html": "/star-wars/index.html",
+    "static/css/main.9f9ad270.chunk.css.map": "/star-wars/static/css/main.9f9ad270.chunk.css.map",
+    "static/js/2.93f297d3.chunk.js.LICENSE.txt": "/star-wars/static/js/2.93f297d3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/star-wars/static/media/background.39a79338.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c8ecd97.js",
+    "static/js/runtime-main.dbec3ec3.js",
     "static/js/2.93f297d3.chunk.js",
-    "static/css/main.9eea915f.chunk.css",
+    "static/css/main.9f9ad270.chunk.css",
     "static/js/main.813bd76c.chunk.js"
   ]
 }
